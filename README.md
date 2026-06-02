@@ -1,6 +1,6 @@
-# Anonymous Rebuttal Artifacts
+# Anonymous Artifacts
 
-This repository contains anonymized artifacts supporting the additional experimental results reported in the rebuttal.
+This repository contains anonymized artifacts supporting the additional experimental results.
 
 ## Contents
 
